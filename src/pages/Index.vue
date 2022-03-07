@@ -4,7 +4,7 @@
   <header
    class="masthead"
    :style="{
-    backgroundImage: `url(http://106.75.226.89:1337${general.cover.url})`
+    backgroundImage: `url(${general.cover.url})`
    }"
   >
    <div class="container position-relative px-4 px-lg-5">
